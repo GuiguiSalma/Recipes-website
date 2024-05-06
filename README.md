@@ -1,5 +1,6 @@
 # Recipes-website
-This is the website: https://guiguisalma.github.io/Recipes-website/
+This is the website: https://guiguisalma.github.io/Recipes-website/, it's deployed using github actions.
+
 I decided by fun to learn developing so i'll keep track of my learning-by-doing in github.
 This repository contains my firt project, a Moroccan Recipe website!😊
 
